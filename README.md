@@ -201,3 +201,15 @@ asdf local nodejs 14.16.0
 ```
 
 > **Obs**: You need to config a **global** version if you need to use on your system, otherwise `node --version` won't work.
+
+## References
+
+[`ArchWSL`](https://github.com/yuk7/ArchWSL) - ArchLinux based WL Distribution.
+
+[`yay`](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
+
+[`powerlevel10k`](https://github.com/romkatv/powerlevel10k) - A ZSH Theme.
+
+[`zsh-autosuggestions`](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
+
+[`ASDF Docs`](https://asdf-vm.com/guide/introduction.html) - Documentation for `asdf` tool version manager.
