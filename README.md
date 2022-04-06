@@ -1,8 +1,9 @@
 # WSL Arch Setup
 Step-by-step tutorial to Setup Dev Environment using Arch on WSL2
 
-# Getting Started
+![WSL Arch Setup Final Result](./img/result.png)
 
+# Getting Started
 
 ## Installing WSL
 
