@@ -152,7 +152,7 @@ Create a `.zsh` folder on your home folder (aka `~`).
 ```
 mkdir .zsh
 
-git clone git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ```
 
 Add the following to your `.zshrc`:
