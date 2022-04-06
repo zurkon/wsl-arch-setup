@@ -120,7 +120,7 @@ yay -S --noconfirm zsh-theme-powerlevel10k-git
 
 `powerlevel10k` have some optional fonts:
 ```
-yay -S ttf-meslo-nerd-font-powerlevel10k powerline-fonts awesome-fonts
+yay -S ttf-meslo-nerd-font-powerlevel10k powerline-fonts awesome-terminal-fonts
 ```
 
 Saving `powerlevel10k` on `zsh` config file:
