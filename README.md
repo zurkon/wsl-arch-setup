@@ -114,6 +114,8 @@ Installing `zsh`:
 yay -S zsh
 ```
 
+> **Obs**: You can use the `yay -Rns [package_name]` command to remove an installed package and its dependencies and configuration files.
+
 Installing `powerlevel10k`
 ```
 yay -S --noconfirm zsh-theme-powerlevel10k-git
