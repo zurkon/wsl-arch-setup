@@ -211,6 +211,8 @@ asdf local nodejs 14.16.0
 
 [`yay`](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
 
+[`yay man`](https://linuxcommandlibrary.com/man/yay) - Documentation for `yay` command.
+
 [`powerlevel10k`](https://github.com/romkatv/powerlevel10k) - A ZSH Theme.
 
 [`zsh-autosuggestions`](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
